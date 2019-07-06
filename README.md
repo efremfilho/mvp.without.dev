@@ -10,5 +10,4 @@ this is "How-to" for some kinds of MVPs.
   * [Web product](./web-product)
   
   
-## Didn't find your MVP? 
-# [Reach me out](https://twitter.com/efremfilho).
+## Didn't find your MVP? [Reach me out](https://twitter.com/efremfilho).
