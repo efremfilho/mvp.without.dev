@@ -8,7 +8,9 @@ or
   * [Sheetson](https://sheetson.com/) - faster and "danger" way of doing, free
   
   **Total - FREE :)**
+
 > Want to learn in 10 minutes? [Check this out](https://www.youtube.com/watch?v=zkIc9fblK5E)
+
 ## Create the data
 ## Build the API
 ## Trying Sheetson
