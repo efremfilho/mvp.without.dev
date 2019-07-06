@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: How-to build MVP
 description: "Build with #nocode and #lowcode"
-# show_downloads: false
+show_downloads: true
 google_analytics: UA-143364303-1
 github:
   let_us_url: https://productsandhacks.com?ref=without.dev
