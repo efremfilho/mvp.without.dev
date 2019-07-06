@@ -1,4 +1,4 @@
-# How to create a MVP for a marketplace?
+# Marketplace
 
 ## What you'll use
   * [Shopify](https://shopify.com) - $29
