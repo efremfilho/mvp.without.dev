@@ -8,6 +8,7 @@ this is "How-to" for some kinds of MVPs.
   * [API](./api)
   * [App](./app)
   * [Web product](./web-product)
+  * [Report Generator](./report-generator)
   
   
 ## Didn't find your MVP? [Reach me out](https://twitter.com/efremfilho).
