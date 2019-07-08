@@ -1,16 +1,16 @@
 # API
 
-## What you'll use
-  * [Google Sheets](https://www.google.com/sheets/about/) - where your data lives, free
-  * [Google Apps Script](https://developers.google.com/apps-script/) - to create the API from the sheet, free
+## O que vamos usar
+  * [Google Sheets](https://www.google.com/sheets/about/) - onde os seus dados estarão, grátis
+  * [Google Apps Script](https://developers.google.com/apps-script/) - para criar sua API a partir da sua planilha, grátis
   
-or
-  * [Sheetson](https://sheetson.com/) - faster and "danger" way of doing, free
+ou
+  * [Sheetson](https://sheetson.com/) - jeito mais rápido e "perigoso" de fazer, grátis
   
-  **Total - FREE :)**
+  **Total - grátis :)**
 
-> Want to learn in 10 minutes? [Check this out](https://www.youtube.com/watch?v=zkIc9fblK5E)
+> Quer aprender em 10 minutos (em inglês)? [Dá uma olhada nisso](https://www.youtube.com/watch?v=zkIc9fblK5E)
 
-## Create the data
-## Build the API
-## Trying Sheetson
+## Crie seus dados
+## Construa a API
+## Testando o Sheetson

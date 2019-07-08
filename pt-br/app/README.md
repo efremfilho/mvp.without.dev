@@ -1,11 +1,11 @@
 # App
 
-## What you'll use
-  * [Glide Apps](https://glideapps.com) - the sales side of our marketplace, $99
-  * [Typeform](https://typeform.com) - only authorized user can by a supplier and add products, $70
+## O que vamos usar
+  * [Glide Apps](https://glideapps.com) - o lado de vendas do seu marketplace, $99
+  * [Typeform](https://typeform.com) - para se ter novas entradas de dados, $70
     
-  **Total - $169 a month**
+  **Total - $169 ao mês**
 
-## Create the data
-## Create the input forms
-## Create the app
+## Cria os dados
+## Cria os formulários de entrada de dados
+## Cria o app
