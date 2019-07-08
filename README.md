@@ -2,7 +2,7 @@
 
 Hi there,
 
-this is "How-to" for some kinds of MVPs. 
+this is "How-to" for the MVPs we used at [Products and Hacks](https://productsandhacks.com/?ref=mvp.without.dev) and [PUE](https://pue.universidadeagora.com/?ref=mvp.without.dev). 
 
   * [Marketplace](./marketplace)
   * [API](./api)
