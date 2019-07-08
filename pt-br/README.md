@@ -1,14 +1,14 @@
-> [Ver esse conteúdo em português](./pt-br)
+> [This content in english?](./)
 
-Hi there,
+Olá,
 
-this is "How-to" for some kinds of MVPs. 
+aqui estão os "Como fazer" os MVPs que acreditamos já cobrir boa parte dos MVPs que vimos no [PUE](https://pue.universidadeagora.com/?ref=mvp.without.dev) e no [Products and Hacks](https://productsandhacks.com/?ref=mvp.without.dev). 
 
-  * [Marketplace](./marketplace)
-  * [API](./api)
-  * [App](./app)
-  * [Web product](./web-product)
-  * [Report Generator](./report-generator)
+  * [Marketplace](./pt-br/marketplace)
+  * [API](./pt-br/api)
+  * [App](./pt-br/app)
+  * [Web product](./pt-br/web-product)
+  * [Report Generator](./pt-br/report-generator)
   
   
-## Didn't find your MVP? [Reach me out](https://twitter.com/efremfilho).
+## Não achou o seu MVP? [Fala comigo](https://twitter.com/efremfilho) ou usa [nosso contato](https://without.dev/#contact).
