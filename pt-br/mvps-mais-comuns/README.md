@@ -1,9 +1,9 @@
 # Roteiro
-## Pre
-## Marketplace
-## Web app
-## Mobile web app
-## Q&A
+## [Pré](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)
+## [Marketplace](https://mvp.without.dev/pt-br/mvps-mais-comuns/#marketplace)
+## [Web app](https://mvp.without.dev/pt-br/mvps-mais-comuns/#web-app)
+## [Mobile](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)
+## [Q&A](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)
 
 # O que precisamos entender antes 
 
@@ -33,3 +33,6 @@
   - Google Apps Script
   
 ### [Exemplo de Mobile web app](https://lgbe.universidadeagora.com/app) 
+
+# Q&A
+Agora é com vocês - 2 min para explicar e 3 para discutirmos
