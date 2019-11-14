@@ -1,4 +1,4 @@
-![qr code](http://api.qrserver.com/v1/create-qr-code/?data=https://mvp.without.dev/pt-br/mvps-mais-comuns/#roteiro?ref=qrcode&size=500x500&color=232B95&margin=30 "qr code da apresentação")
+![qr code](http://api.qrserver.com/v1/create-qr-code/?size=650x5650&color=232B95&margin=30&data=https://mvp.without.dev/pt-br/mvps-mais-comuns/#roteiro "qr code da apresentação")
 
 # Roteiro
 ## [Pré](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes) - o que precisamos saber antes
@@ -6,7 +6,7 @@
   - **[Marketplace](https://mvp.without.dev/pt-br/mvps-mais-comuns/#marketplace)** 
   - **[Web app](https://mvp.without.dev/pt-br/mvps-mais-comuns/#web-app)**
   - **[Mobile](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)**
-## [Q&A](https://mvp.without.dev/pt-br/mvps-mais-comuns/#qa-1) - Perguntas dos exemplos e com quem vai ser o bate bola
+## [Q&A](https://mvp.without.dev/pt-br/mvps-mais-comuns/#qa-1) - Perguntas e bate bola
 
 # O que precisamos entender antes 
   - [ser independente digital](http://productsandhacks.com/old/independencia-digital-para-empreendedores/)
