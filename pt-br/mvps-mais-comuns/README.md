@@ -3,7 +3,7 @@
 ## [Marketplace](https://mvp.without.dev/pt-br/mvps-mais-comuns/#marketplace)
 ## [Web app](https://mvp.without.dev/pt-br/mvps-mais-comuns/#web-app)
 ## [Mobile](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)
-## [Q&A](https://mvp.without.dev/pt-br/mvps-mais-comuns/#o-que-precisamos-entender-antes)
+## [Q&A](https://mvp.without.dev/pt-br/mvps-mais-comuns/#qa-1)
 
 # O que precisamos entender antes 
 
