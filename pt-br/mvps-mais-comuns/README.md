@@ -7,6 +7,8 @@
 
 # O que precisamos entender antes 
 
+![fluxo de startup](https://github.com/efremfilho/mvp.without.dev/raw/master/pt-br/mvps-mais-comuns/DDCF883D-3928-4BF4-B815-5EFE7784DDF1.png "fluxo de startup")
+
 # Marketplace
 
 ## O que vamos usar
