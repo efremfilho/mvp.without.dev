@@ -8,4 +8,4 @@ Seja bem-vindo. Aqui está o rascunho do livro sobre **Entrepreneur's paths**. E
 
 **Se está atrás das imagens, [aqui](https://mvp.without.dev/pt-br/livro/img/) estão todas.**
 
-![Empreendedorismo atualmente](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/entrepreneurship-today.JPG "Empreendedorismo atualmente")
+![Empreendedorismo atualmente](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/entrepreneurship-today.JPG?raw=true "Empreendedorismo atualmente")
