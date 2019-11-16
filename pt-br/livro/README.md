@@ -5,3 +5,5 @@ Seja bem-vindo. Aqui está o rascunho do livro sobre **Entrepreneur's paths**. E
   1. [Digital Literacy](https://mvp.without.dev/pt-/br/livro/dl/)
   1. [Analytical Literacy](https://mvp.without.dev/pt-/br/livro/al/)
   1. [Innovation Paths](https://mvp.without.dev/pt-/br/livro/paths/)
+
+**Se está atrás das imagens, [aqui](https://mvp.without.dev/pt-br/livro/img/) estão todas.**
