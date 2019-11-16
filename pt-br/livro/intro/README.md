@@ -12,6 +12,6 @@
 
 ![Empresas ambidestras](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/ambidextrous-organization.JPG?raw=true "Empresas ambidestras")
 
-<iframe width="100%" height="320" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXb64StZlNRq6Kqa62IqbnQuuS44hBsv-VqNG9RjIH_01BTgWklvXobkNyjY5plkZRSAT1_Y8iBeH_/pubhtml?gid=739292161&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="180" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXb64StZlNRq6Kqa62IqbnQuuS44hBsv-VqNG9RjIH_01BTgWklvXobkNyjY5plkZRSAT1_Y8iBeH_/pubhtml?gid=739292161&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <iframe width="100%" height="320" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXb64StZlNRq6Kqa62IqbnQuuS44hBsv-VqNG9RjIH_01BTgWklvXobkNyjY5plkZRSAT1_Y8iBeH_/pubhtml?gid=1264992799&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
