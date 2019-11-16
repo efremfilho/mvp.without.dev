@@ -6,7 +6,7 @@
 
 ![Empreendedorismo atualmente](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/entrepreneurship-today.JPG?raw=true "Empreendedorismo atualmente")
 
-![Caminho com as áreas de conhecimento](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/path-by-field.JPG?raw=true "Caminho com as áreas de conhecimento"]
+![Caminho com as áreas de conhecimento](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/path-by-field.JPG?raw=true "Caminho com as áreas de conhecimento")
 
 ![Caminho atual de inovação](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/current-path-of-innovation.PNG?raw=true "Caminho atual de inovação")
 
