@@ -1,0 +1,5 @@
+  - Foco em todos empreendedores - de vender infoproduto  e *side project* até Domino's e Apple - para quem [não entendeu a Domino's aqui](https://www.vox.com/2018/1/10/16874054/dominos-ceo-business-stock-price-amazon-facebook-google-pizza).
+  - Digital literacy
+  - Analytical literacy
+  - Lean, Design Thinking e Agile
+  - Os caminhos
