@@ -1,6 +1,3 @@
-# https://mvp.without.dev/app
-# [Link to see my screen](https://zoom.us/j/634217994?pwd=UjYzb1BvckpHdjhXM2ROR3hSZDBqZz09)
-
 ![this link](http://api.qrserver.com/v1/create-qr-code/?size=650x5650&color=232B95&margin=30&data=https://mvp.without.dev/app/ "this link")
 
 # Guide
@@ -25,17 +22,21 @@
 
 ### [Mobile web app example](https://lgbe.universidadeagora.com/app?ref=mvp.without.dev) 
     
+## 0 - Understand the Glide Apps
+
+Go to [Glide Apps](https://go.glideapps.com/) and familiarize yourself with the menus - left and right. Try with some template.
+
 ## 1 - Create the data structure
 
-First of all, it helps a lot if we think this as a database.
+First of all, it helps a lot if we think of this as a database. Normally every tab is one entity - think as all the data with the same columns - and you can build filtered versions in separated tabs. 
 
 ## 2 - Create the input forms
 
-Beyond the Glide input using Jotform and [URL parameters](https://www.jotform.com/help/71-Prepopulating-Fields-to-Your-JotForm-via-URL-Parameters)
+You can use the Glide Apps' "add" feature. If you need beyond this input, try to use Jotform and [URL parameters](https://www.jotform.com/help/71-Prepopulating-Fields-to-Your-JotForm-via-URL-Parameters), so you can identify the person input the data.
 
 ## 3 - Create the app
 
-Now it's time to play with Glide Apps **and iterate over these steps!**
+Now it's time to play with Glide Apps **and iterate over these steps!** Try to build from scratch - to solve your job to be done - and play with the templates.
 
 # Q&A
 Now is your time - **2 min** to explain the JOB TO BE DONE 
