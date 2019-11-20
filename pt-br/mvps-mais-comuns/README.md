@@ -11,7 +11,7 @@
 # O que precisamos entender antes 
   - [ser independente digital](http://productsandhacks.com/old/independencia-digital-para-empreendedores/)
 
-![fluxo de startup](https://github.com/efremfilho/mvp.without.dev/blob/master/pt-br/livro/img/path-by-field.JPG?raw=true "fluxo de startup")
+![fluxo de startup](https://github.com/efremfilho/mvp.without.dev/blob/master/book/img/path-by-field.JPG?raw=true "fluxo de startup")
 
 # Marketplace
 
