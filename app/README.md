@@ -8,7 +8,7 @@
 ## [Q&A](https://mvp.without.dev/app/#qa-1) - Perguntas e bate bola
 
 # Before we start
-  - [ser independente digital](http://productsandhacks.com/old/independencia-digital-para-empreendedores/)
+  - [Digital literacy - in portuguese :(](http://productsandhacks.com/old/independencia-digital-para-empreendedores/)
 
 ![startup's paths](https://github.com/efremfilho/mvp.without.dev/blob/master/book/img/path-by-field.JPG?raw=true "startup's paths")
 
@@ -23,15 +23,23 @@
 **Total - $38-57.99 a month to start**
 
 ### [Mobile web app example](https://lgbe.universidadeagora.com/app?ref=mvp.without.dev) 
+    
+## 1 - Create the data structure
+
+First of all, it helps a lot if we think this as a database.
+
+## 2 - Create the input forms
+
+Beyond the Glide input using Jotform and [URL parameters](https://www.jotform.com/help/71-Prepopulating-Fields-to-Your-JotForm-via-URL-Parameters)
+
+## 3 - Create the app
+
+Now it's time to play with Glide Apps **and iterate over these steps!**
 
 # Q&A
 Now is your time - **2 min** to explain the JOB TO BE DONE 
 
 and **3 min** to discuss SOLUTIONS
-    
-## Create the data structure
-## Create the input forms
-## Create the app
 
 # Extras
   - [Glide Apps' community](https://community.glideapps.com)
