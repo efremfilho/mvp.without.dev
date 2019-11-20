@@ -1,3 +1,5 @@
+# [Link to see my screen](https://zoom.us/j/634217994?pwd=UjYzb1BvckpHdjhXM2ROR3hSZDBqZz09)
+
 ![this link](http://api.qrserver.com/v1/create-qr-code/?size=650x5650&color=232B95&margin=30&data=https://mvp.without.dev/app/ "this link")
 
 # What we'll talk
