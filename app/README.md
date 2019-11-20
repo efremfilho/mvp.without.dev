@@ -42,6 +42,7 @@ Now is your time - **2 min** to explain the JOB TO BE DONE
 and **3 min** to discuss SOLUTIONS
 
 # Extras
+  - [Most common MVPs](/most-common-mvps/)
   - [Glide Apps' community](https://community.glideapps.com)
   - [Glide Apps' documentation](https://docs.glideapps.com/all/)
   - [Glide Apps' youtube channel](https://www.youtube.com/channel/UCoPJeYPmYF_5CX9gbPHAG3Q)
