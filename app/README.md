@@ -3,9 +3,9 @@
 ![this link](http://api.qrserver.com/v1/create-qr-code/?size=650x5650&color=232B95&margin=30&data=https://mvp.without.dev/app/ "this link")
 
 # Guide
-## [Before we start](https://mvp.without.dev/app/#before-we-start)
-## [Mobile web app](https://mvp.without.dev/app/#mobile-web-app)
-## [Q&A](https://mvp.without.dev/app/#qa-1)
+## [Before we start](#before-we-start-1)
+## [Mobile web app](#mobile-web-app-1)
+## [Q&A](#qa-1)
 
 # Before we start
   - [Digital literacy - in portuguese :(](http://productsandhacks.com/old/independencia-digital-para-empreendedores/)
