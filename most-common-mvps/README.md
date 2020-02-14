@@ -1,6 +1,5 @@
 ![this link](http://api.qrserver.com/v1/create-qr-code/?size=650x5650&color=232B95&margin=30&data=https://mvp.without.dev/most-common-mvps "this link")
 
-link")
 
 # Guide
 ## [Pre](#before-we-start) - before we start
